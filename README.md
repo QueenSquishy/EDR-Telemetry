@@ -7,7 +7,7 @@ Besides compliance, investigations and forensics benefits, rich log telemetry em
 Read details about this project in the initial release blog post [here](https://kostas-ts.medium.com/edr-telemetry-project-a-comprehensive-comparison-d5ed1745384b). 
 
 ## Telemetry Definition
-There are many types of *telemetry* when it comes to Security Instrumentation. Here we focus on agents or sensors generating telemetry in the form of *log data*, regardless of the format (json, key-value, csv), as long as the data is automatically generated and transmitted or streamed in near real-time.
+There are many types of *telemetry* when it comes to Security Instrumentation. Here we focus on agents or sensors generating telemetry in the form of *log data*, regardless of the format (json, key-value, csv), as long as the data is automatically generated and transmitted or streamed in near real-time. asdadasdfasdfsadf
 
 ## FAQ & Contributions
 
